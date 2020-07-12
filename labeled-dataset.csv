@@ -1,273 +1,273 @@
 Feature Model Name,Number of features (NF),Number of Mandatory Features (NM),Number of Top Features (NTop),Number of Leaf Features (NLeaf),Depth of Tree Max (DT Max),Cognitive Complexity of a Feature Model (CogC),Feature EXtendibility (FEX),Flexibility of Configuration (FoC),Single Cyclic Dependent Features (SCDF),Multiple Cyclic Dependent Features (MCDF),Number of Features Referenced in Constraints Mean (Rden),Ratio of Variability (RoV),Number of Valid Configurations (NVC),Number Groups Or (NGOr),Number Groups XOR (NGXOr)
-low,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
-high,moderate,veryHigh,high,moderate,veryHigh,veryHigh,moderate,moderate,high,moderate,moderate,high,veryHigh,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,veryLow,veryLow,moderate,moderate,moderate,moderate,high,moderate,high,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high
-veryHigh,high,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,veryHigh,high,moderate
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,low,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,high,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,low,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate
-moderate,veryLow,veryLow,moderate,high,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high
-moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,low,veryHigh,moderate,veryLow,moderate,moderate,veryHigh,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-veryHigh,veryHigh,moderate,high,high,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,veryLow,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,high,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,low,moderate,moderate,high,high,moderate,moderate,veryHigh,moderate,veryHigh,moderate,moderate,moderate,veryHigh
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,low,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-moderate,veryHigh,moderate,veryHigh,low,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-veryHigh,high,high,veryHigh,moderate,veryHigh,veryHigh,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,high,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,high,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-veryHigh,moderate,moderate,veryHigh,high,moderate,veryHigh,veryHigh,moderate,moderate,moderate,veryHigh,high,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,moderate,moderate,veryHigh,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,veryHigh,moderate,moderate,high,high,low,high,veryHigh,moderate,moderate,moderate,moderate,veryHigh
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,low,moderate,low,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,low,moderate,moderate
-low,veryLow,moderate,veryLow,moderate,moderate,veryLow,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-high,veryHigh,moderate,high,moderate,moderate,high,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-moderate,low,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,low,moderate,low,moderate,moderate,low,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-high,moderate,moderate,high,moderate,high,high,moderate,moderate,moderate,moderate,moderate,high,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,high,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,high,moderate,moderate,high,moderate,low,moderate,veryHigh,moderate,moderate,moderate,veryHigh,moderate
-high,veryHigh,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-veryHigh,moderate,moderate,veryHigh,moderate,veryHigh,veryHigh,moderate,high,moderate,veryHigh,moderate,moderate,moderate,veryHigh
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate,high,moderate,moderate,moderate
-high,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
-moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-high,low,moderate,high,veryHigh,veryHigh,high,moderate,moderate,moderate,veryHigh,moderate,high,high,veryHigh
-moderate,veryLow,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
-high,veryHigh,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-veryHigh,high,moderate,veryHigh,moderate,moderate,veryHigh,high,moderate,moderate,moderate,high,high,moderate,moderate
-moderate,high,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,low,veryHigh,moderate,veryHigh,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-low,moderate,moderate,veryLow,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,veryLow,low,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,high,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-high,low,moderate,high,veryHigh,veryHigh,high,moderate,moderate,moderate,moderate,moderate,high,high,veryHigh
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,high,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
-veryHigh,veryHigh,veryHigh,veryHigh,moderate,veryHigh,high,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh
-low,low,veryLow,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-high,high,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-low,low,moderate,veryLow,veryHigh,moderate,veryLow,veryHigh,moderate,moderate,moderate,None,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-veryHigh,veryHigh,moderate,veryHigh,veryHigh,veryHigh,veryHigh,moderate,veryHigh,moderate,moderate,veryHigh,veryHigh,high,veryHigh
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,low,veryLow,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,high,moderate,moderate,high,moderate,low,moderate,veryHigh,moderate,moderate,moderate,veryHigh,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-veryHigh,moderate,veryHigh,veryHigh,moderate,moderate,veryHigh,high,moderate,veryHigh,moderate,veryHigh,high,moderate,moderate
-veryHigh,veryHigh,moderate,veryHigh,high,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,high,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,veryHigh,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,high,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-high,high,high,high,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
-moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,veryHigh,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-high,veryHigh,high,high,moderate,moderate,high,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-veryHigh,veryHigh,veryHigh,veryHigh,veryHigh,moderate,veryHigh,veryHigh,moderate,moderate,veryHigh,high,veryHigh,moderate,moderate
-moderate,high,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,high,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,high,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-high,moderate,moderate,high,moderate,high,high,moderate,moderate,moderate,moderate,moderate,high,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,veryHigh,high,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate
-high,moderate,moderate,moderate,high,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
-moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,high,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,low,moderate,veryLow,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
-moderate,high,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,veryLow,moderate,veryLow,veryHigh,high,veryLow,low,moderate,moderate,moderate,moderate,veryLow,veryHigh,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,veryLow,low,moderate,moderate,low,low,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,high,moderate,low,moderate,high,veryHigh,moderate,moderate,veryHigh,moderate
-moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,high,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,high,high
-moderate,veryLow,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate
-low,low,moderate,low,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,veryLow,high,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high,veryHigh,moderate,moderate,moderate,high
-high,high,moderate,veryHigh,veryHigh,high,veryHigh,moderate,moderate,veryHigh,moderate,moderate,high,veryHigh,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,veryLow,moderate,moderate
-moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate,moderate,moderate
-veryHigh,moderate,moderate,veryHigh,veryHigh,veryHigh,veryHigh,moderate,moderate,moderate,moderate,moderate,high,veryHigh,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,veryLow,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,veryHigh,moderate,moderate,moderate,moderate,moderate,high
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
-moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,veryHigh
-veryHigh,high,high,high,moderate,veryHigh,high,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
-moderate,veryHigh,moderate,high,low,moderate,high,low,moderate,moderate,moderate,veryHigh,veryLow,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,veryHigh,veryHigh,veryHigh,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,high,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,low,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,high,moderate,moderate,low,veryHigh,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,high
-high,veryHigh,moderate,high,high,moderate,high,moderate,moderate,moderate,veryHigh,moderate,moderate,high,moderate
-moderate,low,veryHigh,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,veryHigh,high,moderate,moderate
-moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high,moderate,moderate,moderate,moderate,high
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate
-veryHigh,moderate,moderate,veryHigh,veryHigh,veryHigh,veryHigh,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,veryHigh
-moderate,low,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
-moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,high,moderate
-low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,high,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate
-moderate,moderate,high,moderate,moderate,moderate,moderate,low,veryHigh,high,moderate,moderate,moderate,moderate,veryHigh
-low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high
-low,moderate,moderate,low,low,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
-moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,veryLow,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,high,high,moderate,moderate,moderate,moderate,high
-high,moderate,high,high,moderate,veryHigh,high,moderate,high,moderate,moderate,moderate,high,veryHigh,moderate
-low,low,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
-moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,low,moderate,moderate
-moderate,moderate,moderate,moderate,high,high,high,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate
+eshop,low,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
+e-commerce,high,moderate,veryHigh,high,moderate,veryHigh,veryHigh,moderate,moderate,high,moderate,moderate,high,veryHigh,moderate
+Livraria Online,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,veryHigh,moderate,moderate,moderate,moderate
+GreenHouse_Control_and_Monitoring,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Match engine,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Match de foot,low,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+Mobile media v4,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+CFDP Library,moderate,veryLow,veryLow,moderate,moderate,moderate,moderate,high,moderate,high,veryHigh,moderate,moderate,moderate,moderate
+Homepage based on wiki,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Cars xpto,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+e-foramation,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high
+Video Player,veryHigh,high,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,veryHigh,high,moderate
+NovoSiga,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Movie System,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+WebCollaboration,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Multiplicador de n matrices,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Digital_Video_System,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Telefonia Celular,low,low,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+agis,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate
+Assess4me,moderate,high,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Mobile Media v3,low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+Mobile Media v7,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+VODPlayer,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Mobile Media v8,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Electronic Drum,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
+CCCMS,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Heroku,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
+Software-Product,moderate,moderate,moderate,moderate,low,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Voice Recording System,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+VMTools-RA,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+UPT TAM,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Mobile media v5,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+Jogo,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
+Text To Speech App,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,high
+Web Game,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Toko,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Mobile Media 2,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Visual Data Graph,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+SIGA-lctf-fta,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+deepak_fm,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
+Mobile Tourist Planner,low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+social network applications,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate
+Reservation,moderate,veryLow,veryLow,moderate,high,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
+Toko,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Monitor Engine,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high
+StoreFrontSystem,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Smartwatch,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+B2B Website,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
+MiniTV,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
+Sisgeo,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Editor de imagem,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Modelo de Característica para Entidades Urbanas,low,low,veryHigh,moderate,veryLow,moderate,moderate,veryHigh,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+bCMS system,veryHigh,veryHigh,moderate,high,high,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
+Thread,moderate,moderate,veryLow,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
+Webshop_SPLE2014_Chalmers,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
+Bike Shop,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,high,moderate,moderate,moderate,moderate,moderate
+Gsist,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+iNavBasic,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+AmazonEC2,moderate,low,moderate,moderate,high,high,moderate,moderate,veryHigh,moderate,veryHigh,moderate,moderate,moderate,veryHigh
+Simaldores de Engenharia de Software,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Reference Management Softwares Feature Model,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Siga,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate
+MobileMedia_MarinaMB,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Maquina de Cafe,low,low,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Inventory,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate
+Dummy Car,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
+GymManager,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+AGORA,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+IDE4OCL,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+OPEN ERP,moderate,veryHigh,moderate,veryHigh,low,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+Emergency Response Application,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Toko,veryHigh,high,high,veryHigh,moderate,veryHigh,veryHigh,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
+Address Book,moderate,moderate,moderate,moderate,low,moderate,moderate,high,moderate,moderate,moderate,high,moderate,moderate,moderate
+MoviesApp PL,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+DelayBlockSemSpec,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate
+Web_Portal,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,high,veryHigh,moderate,moderate,moderate,moderate
+ATM Software,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+FrameWorkProdemge,veryHigh,moderate,moderate,veryHigh,high,moderate,veryHigh,veryHigh,moderate,moderate,moderate,veryHigh,high,moderate,moderate
+MobiCent,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate
+Mobile Phone,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Eshop-ufrj,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Minimalistic PC Feature Model,low,moderate,moderate,low,moderate,moderate,moderate,moderate,veryHigh,moderate,veryHigh,moderate,low,moderate,moderate
+Basic Text Editor,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
+Mobile media v6,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+TrafficLight,moderate,moderate,veryHigh,moderate,moderate,high,high,low,high,veryHigh,moderate,moderate,moderate,moderate,veryHigh
+Search_Engine_PL,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Mobile Phone Software,low,low,moderate,low,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,low,moderate,moderate
+MarketPlace-Sample,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,low,moderate,moderate
+Autosoft,low,veryLow,moderate,veryLow,moderate,moderate,veryLow,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+MayaModel,high,veryHigh,moderate,high,moderate,moderate,high,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+G10-music player,moderate,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+tool analysis,moderate,low,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
+VMS,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+WebApp,low,low,moderate,low,moderate,moderate,low,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Database Tool,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate
+TiendaEnLinea,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate
+Alarm System,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Plone Meeting,high,moderate,moderate,high,moderate,high,high,moderate,moderate,moderate,moderate,moderate,high,high,moderate
+Buscame,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Text_Editor,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Monitor_Engine_System,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Student Attendance System,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,high,moderate,veryHigh,moderate,moderate,moderate,moderate
+Tree Stem Deformation Simulator,moderate,moderate,high,moderate,moderate,high,moderate,low,moderate,veryHigh,moderate,moderate,moderate,veryHigh,moderate
+Equipo 6 - Uniandes - MP,high,veryHigh,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+USECASE_Test,veryHigh,moderate,moderate,veryHigh,moderate,veryHigh,veryHigh,moderate,high,moderate,veryHigh,moderate,moderate,moderate,veryHigh
+SEPFeatureModel,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+ISA11/12_pgr,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,veryHigh,moderate,moderate,moderate,moderate
+MiniRPG,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+MobileApps Multiplatform,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate,high,moderate,moderate,moderate
+Video Player,high,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
+Connector PL,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high
+Audio Player,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+E-science application,high,low,moderate,high,veryHigh,veryHigh,high,moderate,moderate,moderate,veryHigh,moderate,high,high,veryHigh
+Eclipse Platform,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Stack PL,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Online Bookstore,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Adempiere,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
+E-commerce system,high,veryHigh,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+JCalc_LPS,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+OW2-FraSCAti-1.4,veryHigh,high,moderate,veryHigh,moderate,moderate,veryHigh,high,moderate,moderate,moderate,high,high,moderate,moderate
+MarketplaceMiso,moderate,high,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+Devolution,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+mac,moderate,low,veryHigh,moderate,veryHigh,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,high
+IDE4OCL,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+Assistente de Compras,low,moderate,moderate,veryLow,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Prontuário Eletrônico de Pacientes,low,moderate,moderate,veryLow,low,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+Software-Product,moderate,moderate,high,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Key_Word_In_Context_index_systems,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,high
+VOTE4ME Serveur,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+MyHolidays,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+E-science application,high,low,moderate,high,veryHigh,veryHigh,high,moderate,moderate,moderate,moderate,moderate,high,high,veryHigh
+Navigation Protocol,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+DeReTiYo,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+GMF_Eclipse_Reuso_UFRJ,moderate,high,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
+Graph Product Line,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate,moderate
+DelayBlockSemSpec,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate
+Premium1Nemocon,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
+J2EE web architecture,veryHigh,veryHigh,veryHigh,veryHigh,moderate,veryHigh,high,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh
+HybridCar,low,low,veryLow,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+SPL SimulES- PnP,high,high,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
+Mobile Media,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Middle Office,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+Simnumero,low,low,moderate,veryLow,veryHigh,moderate,veryLow,veryHigh,moderate,moderate,moderate,None,low,moderate,moderate
+Parking lot Manager,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+BankingSoftware,veryHigh,veryHigh,moderate,veryHigh,veryHigh,veryHigh,veryHigh,moderate,veryHigh,moderate,moderate,veryHigh,veryHigh,high,veryHigh
+SPL-Doctor Chat,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
+UML-IDE-TOOL,moderate,low,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate,moderate,moderate
+Invio,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Amazon web services,moderate,low,veryLow,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Ubuntu,low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
+Control Biometrico,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,high,moderate
+LscSpecSemantics,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
+Tree Stem Deformation Simulator,moderate,moderate,high,moderate,moderate,high,moderate,low,moderate,veryHigh,moderate,moderate,moderate,veryHigh,moderate
+Pricing,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,high,moderate
+Game Entity Model,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+pruebapalabras,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Billing,veryHigh,moderate,veryHigh,veryHigh,moderate,moderate,veryHigh,high,moderate,veryHigh,moderate,veryHigh,high,moderate,moderate
+Webmail,veryHigh,veryHigh,moderate,veryHigh,high,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,high,high,moderate
+GuideAgent,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,veryHigh,moderate,moderate,low,moderate,moderate
+MobiLine,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+UPL,low,moderate,moderate,low,high,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Toko,high,high,high,high,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
+Sistem Informasi Rumah Sakit MIK,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,veryHigh,moderate
+IntelligentTutoringSystem,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Cruise Control SPL,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Simple e-shop,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Video On Demand FM,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate,moderate,moderate,moderate,moderate
+MobileMedia_Conejero,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+MayaVariabilityModel,high,veryHigh,high,high,moderate,moderate,high,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate
+Tankwar,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
+SmartHotel,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+xtext,veryHigh,veryHigh,veryHigh,veryHigh,veryHigh,moderate,veryHigh,veryHigh,moderate,moderate,veryHigh,high,veryHigh,moderate,moderate
+Marketplace para PYMES,moderate,high,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+E-portal,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Ligne des sites Web,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate
+Respaldo de base de datos (Poda),moderate,high,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,high,low,moderate,moderate
+TVSmart,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Plone Meeting,high,moderate,moderate,high,moderate,high,high,moderate,moderate,moderate,moderate,moderate,high,high,moderate
+Mobile Media_LeonardoSilva,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Toko,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,high,moderate
+ScrollingText,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,veryHigh,high,moderate,moderate,moderate,moderate,high
+prueba,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate
+SPL SimulES- PnP,high,moderate,moderate,moderate,high,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
+FAME-DBMS,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high
+Wireless sensor actuator network,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,high,moderate,moderate
+RST Game,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+portafolioContreras,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Car Software System,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Mobile Game,low,low,moderate,veryLow,moderate,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+VR application,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,moderate
+EC2,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh
+SWAMP Platform,moderate,high,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+HandlingSystem,low,veryLow,moderate,veryLow,veryHigh,high,veryLow,low,moderate,moderate,moderate,moderate,veryLow,veryHigh,moderate
+Tienda Virtual PUJ,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+ESCA Embeeded System,low,moderate,veryLow,low,moderate,moderate,low,low,moderate,moderate,moderate,moderate,low,moderate,moderate
+Urna eletronica Vinicius Cesar,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,low,moderate,moderate
+TreeStemDeformationMeshingTool,moderate,moderate,moderate,moderate,moderate,high,moderate,low,moderate,high,veryHigh,moderate,moderate,veryHigh,moderate
+PGE-FeatureModel_V1,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,high,high
+SMS a Cobrar / Resposta paga,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Meshing Tool Generator,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,high,high
+Java EE 6 - Camilo Fierro,moderate,veryLow,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,high,moderate
+Cellphone,low,low,moderate,low,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,low,moderate,moderate
+MLX,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate
+AudioPlayer,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Online Shop Feature Model,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Observatorio,low,moderate,moderate,veryLow,high,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+MISO Uniandes 201411102,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Loja Virtual,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Help System,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high,veryHigh,moderate,moderate,moderate,high
+Arcade Game PL Feature Model,high,high,moderate,veryHigh,veryHigh,high,veryHigh,moderate,moderate,veryHigh,moderate,moderate,high,veryHigh,moderate
+body comfort system,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate
+CIMS PL,low,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,veryLow,moderate,moderate
+WebCollaborativeApplication,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate,moderate,moderate
+PhotoSahring,veryHigh,moderate,moderate,veryHigh,veryHigh,veryHigh,veryHigh,moderate,moderate,moderate,moderate,moderate,high,veryHigh,high
+SHIFT QAs,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Mobile Media JULIO,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Dental Surgery,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+GoPhone Inc,moderate,veryLow,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+HDD Seagate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,veryHigh,moderate,moderate,moderate,moderate,moderate,high
+Video CMS,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate
+Automotive system,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,veryHigh
+Toko,veryHigh,high,high,high,moderate,veryHigh,high,moderate,moderate,moderate,veryHigh,moderate,high,veryHigh,moderate
+NOVASOFT,moderate,veryHigh,moderate,high,low,moderate,high,low,moderate,moderate,moderate,veryHigh,veryLow,moderate,moderate
+ScrollingText,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,veryHigh,veryHigh,veryHigh,moderate,moderate,moderate,high
+Mobile Applications Contents,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,high,moderate,moderate,moderate
+Assistencia domiciliar,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,high,moderate
+Tata Cars,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Windows .NET,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate
+Torrent Client,moderate,low,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,high,veryHigh,moderate,moderate,moderate,moderate
+FIRE-ALARM,moderate,moderate,moderate,moderate,high,moderate,moderate,low,veryHigh,moderate,veryHigh,moderate,moderate,moderate,moderate
+Configurable Tank,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,veryHigh,moderate,moderate,moderate,high
+FM ERP-SPL,high,veryHigh,moderate,high,high,moderate,high,moderate,moderate,moderate,veryHigh,moderate,moderate,high,moderate
+RaaS,moderate,low,veryHigh,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,veryHigh,high,moderate,moderate
+Limerick Bike Sharing System,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,high,moderate,moderate,moderate
+Virtual_Office_of_the_Future,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+e-commerce,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Congress Assistant,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+NCV_Simulation,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+HelpSystem_2,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high,moderate,moderate,moderate,moderate,high
+Reference Management Softwares Feature Model,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,moderate,moderate
+ModelTransformation,veryHigh,moderate,moderate,veryHigh,veryHigh,veryHigh,veryHigh,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,veryHigh
+Smart_Home,moderate,low,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+Magister 2014-ROLOG,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate
+Simple Drawing Tools,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Mobile Media until relase 7,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+VacacionesSanmiguel,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,veryHigh,moderate,moderate,high,moderate
+AvionFEatures,low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+SimulesSPLBruno,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+WindFarm,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+FM ERP-SPL,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+B2B Website,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,high,moderate,moderate,moderate
+Sastm,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate
+Robot Calibration,moderate,moderate,high,moderate,moderate,moderate,moderate,low,veryHigh,high,moderate,moderate,moderate,moderate,veryHigh
+ETRobocon,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+eventos2,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+poker spl,low,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+E-commerce system1,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+OnlineExamPL,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
+U-learning System,moderate,moderate,moderate,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Smart Queue,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,moderate,high
+LXEP,low,moderate,moderate,low,low,moderate,low,moderate,moderate,moderate,moderate,moderate,low,moderate,moderate
+Text Editor,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,moderate,low,moderate,moderate
+Mobile Media,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+FrameWorkProdemge,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+MasterSoft: Verkauf,moderate,moderate,moderate,moderate,high,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+Pip,moderate,moderate,moderate,moderate,low,moderate,moderate,low,moderate,moderate,moderate,veryHigh,veryLow,moderate,moderate
+MobilePhone,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate,veryHigh,moderate,moderate,moderate,moderate
+SPLE robot assignment,moderate,moderate,moderate,moderate,moderate,moderate,moderate,low,high,high,moderate,moderate,moderate,moderate,high
+e-banking-IN0980,high,moderate,high,high,moderate,veryHigh,high,moderate,high,moderate,moderate,moderate,high,veryHigh,moderate
+MobileMedia,low,low,moderate,low,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,moderate,moderate
+TW SPL Hard Choices,moderate,moderate,moderate,moderate,low,moderate,moderate,moderate,moderate,moderate,moderate,high,low,moderate,moderate
+Documentation_Generation,moderate,moderate,moderate,moderate,high,high,high,moderate,moderate,veryHigh,moderate,moderate,moderate,high,moderate
