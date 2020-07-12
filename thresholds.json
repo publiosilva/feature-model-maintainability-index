@@ -1,0 +1,107 @@
+[
+  {
+    "veryLow": "10",
+    "low": "10",
+    "moderate": "12",
+    "high": "53",
+    "veryHigh": "63"
+  },
+  {
+    "veryLow": "0",
+    "low": "1",
+    "moderate": "3",
+    "high": "18",
+    "veryHigh": "25"
+  },
+  {
+    "veryLow": "1",
+    "low": "2",
+    "moderate": "2",
+    "high": "9",
+    "veryHigh": "10"
+  },
+  {
+    "veryLow": "2",
+    "low": "7",
+    "moderate": "8",
+    "high": "37",
+    "veryHigh": "46"
+  },
+  {
+    "veryLow": "1",
+    "low": "2",
+    "moderate": "3",
+    "high": "6",
+    "veryHigh": "7"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0",
+    "high": "9",
+    "veryHigh": "11"
+  },
+  {
+    "veryLow": "2",
+    "low": "7",
+    "moderate": "8",
+    "high": "39",
+    "veryHigh": "47"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0.058823529411764705",
+    "high": "0.4838709677419355",
+    "veryHigh": "0.625"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0",
+    "high": "2",
+    "veryHigh": "4"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0",
+    "high": "3",
+    "veryHigh": "5"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0",
+    "high": "1",
+    "veryHigh": "1"
+  },
+  {
+    "veryLow": "2",
+    "low": "2",
+    "moderate": "1.3333333333333333",
+    "high": "3.5",
+    "veryHigh": "4.142857142857143"
+  },
+  {
+    "veryLow": "1",
+    "low": "2",
+    "moderate": "16",
+    "high": "104119680",
+    "veryHigh": "16554170880000"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0",
+    "high": "5",
+    "veryHigh": "9"
+  },
+  {
+    "veryLow": "0",
+    "low": "0",
+    "moderate": "0",
+    "high": "5",
+    "veryHigh": "7"
+  }
+]
